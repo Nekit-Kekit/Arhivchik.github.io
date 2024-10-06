@@ -1,0 +1,232 @@
+body {
+    background-image: url('https://images.wallpaperscraft.ru/image/single/les_derevia_svet_320245_3840x2160.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 98vh;
+    margin: 0;
+}
+.BackWeb {
+    background-color: #494949a1;
+    width: 450px;
+    height: 340px;
+    position: absolute;
+    left: 725px;
+    top: 340px;
+    border-radius: 12px;
+}
+.WebHead {
+    background-color: rgba(27, 27, 27, 0.877);
+    width: 465px;
+    height: 100px;
+    position: absolute;
+    left: 717px;
+    top: 240px;
+    border-radius: 12px;
+}
+.MowasBack {
+    background-color: #07070780;
+    width: 450px;
+    height: 100px;
+    position: absolute;
+    left: 725px;
+    top: 340px;
+    border-radius: 300px;
+}
+.CnCBack {
+    background-color: #07070780;
+    width: 450px;
+    height: 100px;
+    position: absolute;
+    left: 725px;
+    top: 460px;
+    border-radius: 300px;
+}
+.LegacyBack {
+    background-color: #07070780;
+    width: 450px;
+    height: 100px;
+    position: absolute;
+    left: 725px;
+    top: 580px;
+    border-radius: 300px;
+}
+
+.CnCText {
+    font-family: 'Rubik Mono One', sans-serif;
+    color: aliceblue;
+    white-space: nowrap;
+    font-size: 15px;
+    position: absolute;
+    left: 760px;
+    top: 460px;
+    border-radius: 0px; 
+}
+.CnCTextSub {
+    font-family: 'Rubik Mono One', sans-serif;
+    color: rgb(202, 202, 202);
+    white-space: nowrap;
+    font-size: 12px;
+    position: absolute;
+    left: 875px;
+    top: 480px;
+    border-radius: 0px;
+}
+.AgushaText {
+    font-family: 'Rubik Mono One', sans-serif;
+    color: aliceblue;
+    white-space: nowrap;
+    font-size: 12px;
+    position: absolute;
+    left: 760px;
+    top: 580px;
+    border-radius: 0px;
+}
+.AgushaTextSub {
+    font-family: 'Rubik Mono One', sans-serif;
+    color: rgb(202, 202, 202);
+    white-space: nowrap;
+    font-size: 12px;
+    position: absolute;
+    left: 875px;
+    top: 600px;
+    border-radius: 0px;
+}
+.MowasText {
+    font-family: 'Rubik Mono One', sans-serif;
+    color: aliceblue;
+    white-space: nowrap;
+    font-size: 15px;
+    position: absolute;
+    left: 780px;
+    top: 340px;
+    border-radius: 0px;
+}
+.MowasTextSub {
+    font-family: 'Rubik Mono One', sans-serif;
+    color: rgb(202, 202, 202);
+    white-space: nowrap;
+    font-size: 12px;
+    position: absolute;
+    left: 875px;
+    top: 360px;
+    border-radius: 0px;
+}
+.webheadtext {
+    font-family: 'Rubik Mono One', sans-serif;
+    color: aliceblue;
+    white-space: nowrap;
+    font-size: 40px;
+    position: absolute;
+    left: 770px;
+    top: 230px;
+    border-radius: 0px;
+}
+.headheadtext {
+    font-family: 'Rubik Mono One', sans-serif;
+    color: rgb(0, 0, 0);
+    white-space: nowrap;
+    font-size: 60px;
+    position: absolute;
+    left: 700px;
+    top: -60px;
+    border-radius: 0px;
+}
+.headheadsubtext {
+    font-family: 'Rubik Mono One', sans-serif;
+    color: rgb(46, 46, 46);
+    white-space: nowrap;
+    font-size: 15px;
+    position: absolute;
+    left: 850px;
+    top: 50px;
+    border-radius: 0px;
+}
+
+
+
+.button1{
+    background-color: #000000;
+    font-family: 'Rubik Mono One', sans-serif;
+    color: rgb(255, 255, 255);
+    white-space: nowrap;
+    font-size: 20px;
+    border: none; 
+    margin: 10px 2px;
+    width: 250px;
+    height: 50px;
+    position: absolute;
+    left: 820px;
+    top: 380px;
+    border-radius: 300px;
+    padding: 10px -5px;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+.button1:hover {
+    background-color: #ebeaea;
+    color:rgb(0, 0, 0)
+}
+.button1:active {   
+    background-color: #a0a0a0;
+    transition: background-color 0.1s ease; 
+}
+
+
+
+.button2{
+    background-color: #000000;
+    font-family: 'Rubik Mono One', sans-serif;
+    color: rgb(255, 255, 255);
+    white-space: nowrap;
+    font-size: 20px;
+    border: none; 
+    margin: 10px 2px;
+    width: 250px;
+    height: 50px;
+    position: absolute;
+    left: 820px;
+    top: 500px;
+    border-radius: 300px;
+    padding: 10px -5px;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+.button2:hover {
+    background-color: #ebeaea;
+    color:rgb(0, 0, 0)
+}
+.button2:active {   
+    background-color: #a0a0a0;
+    transition: background-color 0.1s ease; 
+}
+
+
+
+.button3{
+    background-color: #000000;
+    font-family: 'Rubik Mono One', sans-serif;
+    color: rgb(255, 255, 255);
+    white-space: nowrap;
+    font-size: 20px;
+    border: none; 
+    margin: 10px 2px;
+    width: 250px;
+    height: 50px;
+    position: absolute;
+    left: 820px;
+    top: 620px;
+    border-radius: 300px;
+    padding: 10px -5px;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+.button3:hover {
+    background-color: #ebeaea;
+    color:rgb(0, 0, 0)
+}
+.button3:active {   
+    background-color: #a0a0a0;
+    transition: background-color 0.1s ease; 
+}
+
